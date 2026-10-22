@@ -12,5 +12,5 @@
 .project
 .classpath
 bin/
-out/
+#out/
 build/
