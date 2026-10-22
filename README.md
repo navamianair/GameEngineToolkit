@@ -21,7 +21,16 @@ A lightweight Java desktop application demonstrating spatial collision partition
 - **Breadth-First Search (BFS)**: Computes the shortest unweighted path using `CustomQueue`.
 - **Depth-First Search (DFS)**: Performs deep maze exploration using `CustomStack`.
 - Interactive GUI panel allowing real-time wall placement and obstacle routing.
+## 📺 Application Output
 
+### 1. Spatial Quadtree Collision Engine
+![Quadtree Collision Demo](collision_demo.png)
+
+### 2. Graph Pathfinding Engine (BFS - Shortest Path)
+![BFS Pathfinding Demo](pathfindingbfs_demo.png)
+
+### 3. Graph Pathfinding Engine (DFS - Maze Search)
+![DFS Pathfinding Demo](pathfindingdfs_demo.png)
 ---
 
 ## 🛠️ Project Structure
